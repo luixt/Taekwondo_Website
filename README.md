@@ -1,8 +1,6 @@
 # Taekwondo_Website
 Informational Website About Taekwondo
 
-Website Link:
-
-<a href="https://www.openai.com" target="_blank">The World of Taekwondo!</a>
+Website Link: [The World of Taekwondo!](https://luixt.github.io/Taekwondo_Website/)
 
 Try it out!
