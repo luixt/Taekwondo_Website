@@ -30,8 +30,8 @@ Gif created with ScreenToGif.
 - **CSS:** Applied for styling and enhancing the visual appearance of web content.
   
 ### Development Environment:
-**Visual Studio Code (VSCode):** Used for managing a local repository and version control.
-**Replit:** Utilized for coding, debugging, and running the website's code in an online environment.
+- **Visual Studio Code (VSCode):** Used for managing a local repository and version control.
+- **Replit:** Utilized for coding, debugging, and running the website's code in an online environment.
   
 ### Version Control:
 - **Git:** Used for version control to manage and track changes in the project.
