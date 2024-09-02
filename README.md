@@ -39,9 +39,6 @@ Gif created with ScreenToGif.
 
 ## Achievements
 
-### Developed Predictive Models:
-- Developed a predictive model using Python and Scikit-learn to assess traffic accident severity, enhancing response strategies and road safety.
-
 ### Website Planning, Design, and Development:
 - Planned and designed the website layout with wireframes to ensure a user-friendly experience and clear navigation for visitors.
 - Developed the website using HTML, CSS, and JavaScript, performing thorough testing to ensure responsiveness and functionality across all devices.
